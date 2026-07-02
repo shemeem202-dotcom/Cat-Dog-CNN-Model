@@ -1,3 +1,0 @@
-git add .
-git commit -m "Set Python version to 3.11"
-git push
